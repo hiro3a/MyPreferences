@@ -10,6 +10,8 @@
 * Print margin column : 160
 * Show whitespace characters : ON
   * Space - Leading : OFF
+  * Carriage Return : OFF
+  * Line Feed : OFF
 
 ## General > Editors > Text Editors > Quick Diff
 * Show differences in overview ruler : ON
